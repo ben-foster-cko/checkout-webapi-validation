@@ -90,7 +90,6 @@
   <ItemGroup>
     <Compile Include="Commands\CreateItemCommand.cs" />
     <Compile Include="Commands\CreateItemCommandValidator.cs" />
-    <Compile Include="Commands\Foo.cs" />
     <Compile Include="Controllers\ItemsController.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="Program.cs" />
